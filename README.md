@@ -27,5 +27,5 @@ For those who are unfamiliar with Blackjack, here are the basic rules for our   
 
 For more info, read the [Wikipedia artice](https://en.wikipedia.org/wiki/Blackjack) about Blackjack.
 
-__Developer__ : Shiva Prasad ~ [github.com/sh-i-va](https://github.com/sh-i-va)
+__Developer__ : Shiva Prasad ~ [github.com/sh-i-va](https://github.com/sh-i-va)  
 __Credits__   : Thanks to Alex @[learncpp.com](https://learncpp.com) for the challenge.  Check out his site, it's awesome. :)
